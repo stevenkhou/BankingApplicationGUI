@@ -1,0 +1,23 @@
+/**
+ *
+ * @author steve
+ */
+
+.root {
+    -fx-background-color: black;
+}
+
+.label, .text, .button {
+    -fx-text-fill: green;
+}
+
+.button {
+    -fx-background-color: #333;
+    -fx-border-color: white;
+    -fx-border-width: 2;
+}
+
+.button:hover {
+    -fx-background-color: #555;
+}
+
