@@ -8,7 +8,8 @@ There are two types of users that interact with the application:<br />
 There are 3 customer membership levels: silver, gold, and platinum, that are updated based on a customer's balance that provide different benifits to the customer.
 <br />
 <br />
-This application applies the state design pattern to change the customer membership levels.
+This application applies the state design pattern to manage the customer membership levels to enhance system scalability and maintainability.
+The GUI was designed with JavaFX and UML diagrams were designed with VioletUML Editor. 
 <br />
 
 ### Class Diagram:
